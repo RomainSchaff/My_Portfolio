@@ -278,7 +278,7 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #ffffff !important;
+  color: #c97878 !important;
 }
 
 a.special:not(.button) {
